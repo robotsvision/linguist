@@ -1,0 +1,13 @@
+
+/* Including module "math" */
+import math
+
+a = 10, b = 20
+
+cout << a + b
+
+; This is a comment
+
+cin:i32 + cin:i32 >> cout
+
+file("my_file.txt") >> cout
