@@ -3717,6 +3717,14 @@ Lean 4:
   tm_scope: source.lean4
   ace_mode: text
   language_id: 455147478
+Lena:
+  type: programming
+  color: #ff2a4a
+  extensions:
+  - ".le"
+  tm_scope: none
+  ace_mode: text
+  language_id:
 Less:
   type: markup
   color: "#1d365d"
